@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Swastik Yadav</h1>
-<h3 align="center">Software Engineer (3+ Years Exp) || JavaScript, ReactJs, NextJs, NodeJs || Writing about JavaScript and life.</h3>
+<h1 align="left">Hi 👋, I'm Swastik Yadav</h1>
+<h3 align="left">Software Engineer (3+ Years Exp) || JavaScript, ReactJs, NextJs, NodeJs || Writing about JavaScript and life.</h3>
 
 - 🔭 I’m currently working on [YouFolio](https://getyoufolio.vercel.app/)
 
