@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Swastik Yadav</h1>
-<h3 align="left">Software Engineer (4 Years Exp) || JavaScript, ReactJs, NextJs, NodeJs || Writing about JavaScript and life.</h3>
+<h3 align="left">Software Engineer (5 Years Exp) || JavaScript, ReactJs, NextJs, NodeJs, AI Benchmarking, RAG, MCP, Vercel SDK || Writing about engineering and life.</h3>
 
-- 🔭 I’m currently working on [CatalystUI](https://catalystui.vercel.app/)
+- 🔭 I’m currently working on [FrontendExamples](https://frontendexamples.com/)
 
-- 🌱 I’m currently learning **to build apps with langchain & chatGpt.**
+- 🌱 I’m currently learning **to build AI driven applications**
 
 - 👨‍💻 Blogs & projects are available at [https://swastikyadav.com/](https://swastikyadav.netlify.app/)
 
