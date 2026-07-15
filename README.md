@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Swastik Yadav</h1>
-<h3 align="left">Software Engineer (5 Years Exp) || JavaScript, ReactJs, NextJs, NodeJs, AI Benchmarking, RAG, MCP, Vercel SDK || Writing about engineering and life.</h3>
+<h3 align="left">Software Engineer || JavaScript, ReactJs, NextJs, NodeJs, AI Benchmarking, RAG, MCP, Vercel SDK || Writing about engineering and life.</h3>
 
 - 🔭 I’m currently working on [FrontendExamples](https://frontendexamples.com/)
 
